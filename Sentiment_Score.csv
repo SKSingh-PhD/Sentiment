@@ -1,664 +1,663 @@
-Word  Sentiment Score
-ache	-0.375
-affect	0.125
-afflict	-0.875
-affront	-0.125
-aggravate	-0.25
-agitate	-0.25
-agonize	-0.875
-agree	0.875
-alienate	0.5
-allow	0.375
-amaze	0.125
-amuse	0.625
-anger	-0.75
-anguish	-0.5
-annihilate	-0.75
-annoy	-0.5
-antagonise	-0.5
-antagonize	-0.5
-appall	-0.375
-appease	0.875
-applaud	0.5
-appreciate	0.375
-approve	0.25
-arouse	-0.25
-assault	-0.375
-assuage	0.875
-astonish	-0.25
-astound	0.25
-attack	-0.5
-awe	-0.25
-backbite	-0.125
-baffle	-0.25
-battle	-0.25
-beguile	0.5
-believe	0.375
-bewilder	-0.25
-bewitch	0.5
-bleed	-0.125
-bless	0.25
-boggle	-0.375
-bomb	-0.25
-bore	-0.5
-bother	-0.875
-brag	-0.125
-browbeat	-0.125
-bug	-0.125
-bully	-0.125
-calm	0.125
-calumniate	-0.125
-campaign	-0.25
-captivate	0.35
-care	0.375
-castigate	-0.75
-celebrate	0.375
-censure	-0.25
-chagrin	-0.625
-charm	0.5
-chasten	0.375
-chastise	-0.75
-cheer	0.75
-cherish	0.125
-chide	-0.75
-chill	-0.25
-clash	-0.375
-coerce	-0.125
-collapse	-0.5
-combat	-0.25
-comfort	0.5
-commend	0.5
-compensate	0.625
-compliment	0.125
-concern	0.375
-condemn	-0.5
-conflict	-0.125
-confound	-0.625
-confuse	-0.5
-congratulate	0.25
-consider	0.25
-console	0.5
-contend	0.5
-content	0.375
-convince	0.125
-correct	0.125
-covet	-0.125
-cow	-0.375
-crave	0.125
-cringe	-0.125
-criticize	-0.25
-crusade	0.125
-crush	0.125
-cry	-0.5
-damage	-0.75
-daunt	-0.25
-daze	-0.25
-dazzle	0.5
-decry	-0.25
-defame	0.125
-defend	0.125
-defy	0.125
-degrade	-0.125
-deject	-0.125
-delight	-0.125
-demolish	-0.375
-demoralise	-0.625
-demoralize	-0.625
-denigrate	-0.125
-denounce	-0.25
-deny	-0.25
-deplore	-0.125
-deprecate	-0.125
-depress	-0.2
-deride	-0.25
-deserve	0.75
-desire	0.25
-despair	-0.1
-despise	-0.375
-destroy	-0.5
-detest	-0.75
-devastate	-0.3
-appoint	0.25
-approve	0.875
-disarm	0.125
-discombobulate	-0.625
-discomfit	-0.125
-compose	0.125
-disconcert	-0.5
-courage	-0.5
-disdain	-0.375
-disgrace	-0.625
-disgruntle	-0.625
-disgust	-0.625
-dishearten	-0.375
-disillusion	0.75
-dismay	-0.125
-disparage	-0.25
-dispirit	-0.125
-disquiet	-0.125
-disrupt	-0.25
-distract	-0.125
-distress	-0.5
-distrust	-0.5
-disturb	-0.625
-doubt	-0.25
-dread	-0.625
-duel	0.25
-dumbfound	-0.25
-elate	0.5
-electrify	0.25
-eliminate	-0.25
-embarrass	-0.25
-embolden	0.25
-enchant	-0.25
-encourage	0.25
-engage	0.125
-enjoy	0.5
-enlighten	0.125
-enliven	0.125
-enrage	-0.75
-enrapture	-0.2
-enthrall	0.125
-enthuse	0.25
-entice	-0.125
-entrance	0.5
-envy	0.375
-esteem	0.5
-eulogize	0.2
-exalt	0.75
-exasperate	-0.25
-excite	0.5
-excuse	0.125
-execrate	-0.25
-exhaust	-0.25
-exhilarate	0.25
-expect 	0.25
-extol	0.75
-exult	0.375
-fancy	0.5
-fascinate	0.5
-fault	-0.625
-favor	0.375
-fear	-0.2
-felicitate	-0.125
-fight	-0.25
-fire	-0.125
-flabbergast	0.375
-flatter	-0.1
-floor	-0.1
-fluster	-0.25
-force	-0.125
-forgive	0.25
-fret	-0.25
-frighten	-0.25
-frustrate	-0.125
-fume	-0.125
-gall	-0.1
-gape	0.125
-gawk	0.1
-gaze	0.125
-gladden	0.125
-glare	-0.125
-gloat	0.375
-goggle	0.1
-gratify	0.375
-greet	0.25
-grieve	-0.375
-guard	0.125
-hail	0.1
-hanker	0.375
-harass	-0.125
-hate	-0.75
-hear	0.1
-hearten	0.25
-hit	-0.3
-honor	0.375
-hope	0.5
-horrify	-0.3
-humble	0.1
-humiliate	-0.625
-hunger	-0.25
-hurt	-0.5
-idolize	0.5
-ignite	-0.25
-impeach	-0.25
-impress	0.125
-incense	-0.2
-infuriate	-0.2
-inspire	0.125
-insult	-0.125
-interest	0.625
-intimidate	0.2
-intoxicate	0.5
-intrigue	-0.2
-invigorate	0.375
-irritate	-0.125
-jolt	-0.125
-kill	-0.75
-lambaste	-0.75
-lament	-0.625
-laud	0.75
-leer	-0.375
-lie	-0.375
-like	0.35
-loathe	-0.25
-look	0.25
-love	0.625
-lose	-0.5
-lull	0.125
-lust	0.5
-madden	0.375
-marvel	0.125
-matter	0
-menace	-0.125
-miff	-0.5
-mind	0.375
-miss	-0.25
-mock	-0.625
-mollify	0.875
-moon	-0.125
-mope	-0.625
-mortify	-0.625
-mourn	-0.75
-move	0.125
-muddle	-0.375
-mystify	-0.25
-nauseate	-0.625
-negotiate	0.125
-nettle	-0.75
-niggle	-0.5
-muke	0
-numb	-0.25
-obsess	0.25
-offend	-0.375
-ogle	-0.25
-oppose	-0.375
-outrage	-0.25
-overawe	-0.375
-overwhelm	-0.375
-pacify	0.875
-pain	-0.375
-pardon	0
-peace	0
-peeve	-0.625
-penalize	-0.25
-perceive	0.375
-perplex	-0.125
-persecute	-0.125
-perturb	-0.125
-pine	-0.375
-pique	-0.375
-pity	0.1
-placate	0.875
-plague	-0.25
-please	0.625
-praise	0.25
-pray	0.25
-prefer	0.375
-presuppose	0.25
-prize	0.5
-protect	0.5
-provoke	-0.125
-punish	-0.25
-pursue	0
-puzzle	-0.625
-rage	-0.5
-rankle	-0.25
-rave	-0.25
-realize	0.375
-reassure	0.125
-rebuke	0.75
-recognize	0.375
-refresh	0
-regard	0.125
-regret	-0.5
-rejoice	0.25
-relax	0.125
-relieve	0.25
-remove	-0.625
-remunerate	0.125
-repel	-0.125
-reprimand	-0.25
-reproach	-0.375
-reprove	0
-repulse	-0.6
-resent	-0.5
-resist	0.25
-respect	0.5
-revel	0
-revere	0.5
-review	0.125
-revile	-0.125
-revolt	0.125
-reward	0.375
-ridicule	0
-rile	0
-rue	0.5
-sadden	-0.375
-salute	0.25
-satisfy	0.375
-savor	0.375
-scandalize	-0.375
-scare	-0.25
-scatter	-0.125
-scold	-0.75
-scorn	-0.375
-scrutinize	0.5
-seem	0.125
-shake	-0.125
-shame	-0.625
-shock	-0.375
-sicken	-0.25
-sniff	0
-snoop	-0.25
-snub	-0.5
-sober	0.125
-solace	0.5
-soothe	0.5
-sorrow	-0.5
-spellbind	0.125
-spook	-0.125
-stare	-0.125
-startle	-0.125
-stimulate	0.5
-sting	-0.625
-stir	0.375
-strike	-0.125
-strive	0.25
-struggle	-0.25
-study	0.25
-stump	-0.375
-stun	-0.125
-stupefy	-0.125
-suffer	-0.5
-support	0.375
-suppose	0.125
-surprise	0.125
-surrender	-0.125
-suspect	-0.25
-swoon	-0.25
-tantalize	-0.125
-tease	-0.125
-tempt	-0.125
-terrify	-0.25
-terrorise	-0.25
-terrorize	-0.25
-thank	0.25
-think	0.125
-thirst	0.5
-threaten	-0.375
-thrill	0.25
-tire	-0.25
-titillate	0.375
-tolerate	0.125
-torment	-0.125
-treasure	0.25
-trouble	-0.5
-trust	0.375
-understand	0.125
-unify	0
-unnerve	0
-unsettle	-0.25
-upbraid	-0.375
-uplift	0.5
-upset	-0.375
-value	0.5
-venerate	0.625
-vex	-0.125
-victimize	-0.625
-vilify	-0.125
-want	0.25
-war	-0.25
-watch	0.125
-weary	-0.125
-weep	-0.75
-weigh	0.125
-welcome	0.25
-win	0.25
-wish	0.5
-withstand	0.25
-wonder	0.375
-worry	-0.375
-worship	0.5
-wow	0.375
-bombard	-0.25
-castrate	-0.25
-dismantle 	-0.125
-smite	-0.875
-prevail	0.375
-hoot 	-0.25
-rant	-0.25
-ranten	-0.3
-gainsay 	-0.3
-err	-0.25
-gull	0.125
-berate	-0.75
-yell	-0.25
-flout 	-0.375
-oust 	-0.125
-revenge 	-0.125
-meddle	-0.125
-sympathize	0.375
-sympathise	0.375
-hog 	-0.125
-sabre 	-0.125
-crack	-0.25
-strip 	-0.2
-demonize	-0.125
-object	-0.125
-fail	-0.5
-afford	0.45
-improve	0.375
-help	0.25
-keep	0.125
-communicate	0.125
-share	0.125
-connect	0.125
-create	0.375
-save	0.5
-activate	0.5
-waste	-0.65
-worst	-0.5
-ruin	-0.25
-fool	-0.5
-require	-0.25
-cut	-0.25
-face	-0.2
-impose	-0.3
-cheat	-0.45
-boost	0.25
-appear	0.125
-vote	0.2
-solve	0.25
-expect 	0.25
-reform	0.25
-generate	0.375
-fake	-0.35
-suck	-0.25
-hike	-0.125
-balance	0.2
-absolve	0.125
-accelerate	0.3
-afterward	0.2
-amend	0.375
-apology	0.3
-append	0.3456
-assemble	0.245
-assign	0.2
-attention	0.3
-boot	0.125
-brief	0.125
-brilliant	0.2534
-broadcast	0.2534
-browse	0.2
-categorize	0.3456
-cease	0.213
-choice	0.213
-circulate	0.2534
-collect	0.35
-colonized	0.2
-command	0.4
-compile	0.5
-compress	0.125
-connect	0.125
-conscript	0.213
-consult	0.3
-convey	0.25
-cooperate	0.3
-defense	0.5
-deliver	0.125
-deploy	0.125
-derive	0.125
-diagnose	0.5
-digitalize	0.125
-discharge	0.291666667
-economize	0.3
-effect	0.125
-encapsulate	0.124
-enclose	0.123
-enjoyment	0.425
-escort	0.2
-evaluate	0.23
-expend	0.25
-finalized	0.5
-float	0.1
-grasp	0.125
-guidance	0.23
-host	0.4
-identify	0.3
-impressive	0.45
-inclose	0.132
-initiate	0.32156
-install	0.253
-integrate	0.32
-interact	0.2
-interlink	0.125
-interpret	0.375
-interrogate	0.123
-introduce	0.2
-mandate	0.3
-merge	0.3
-modernize	0.321
-monitore	0.3
-moralize	0.208333333
-motivate	0.453
-novel	0.231
-participate	0.456
-permit	0.54
-pleasant	0.3
-pleasure	0.23
-pray	0.2531
-preview	0.2
-project	0.1
-pump	0.1
-recommend	0.25
-remark	0.231
-reside	0.1
-resolve	0.231
-revise	0.3
-revolutionize	0.542
-sanction	0.125
-serialised	0.3
-show	0.25
-shown	0.25
-zip	0.25
-visualize	0.2
-visualise	0.2
-venerate	0.625
-restrain	0.321
-unrestrained	0.321
-unopposed	0.3
-complicate	-0.125
-transplant	0.25
-thickened	0.2
-smooth	0.625
-specify	0.25
-sponsor	0.2
-strengthen	0.375
-strong	0.5
-subscribe	0.35
-success	0.5
-suitable	0.2
-surrender	0.3
-symbolized	0.25
-abort	-0.583333333
-breach	-0.35
-busy	-0.1
-caught	-0.2
-contempt	-0.35
-crank	-0.5
-construct	0.25
-deconstruct	-0.25
-disbanded	-0.5
-disintegrated	-0.6
-organise	0.25
-disorganise	-0.25
-prove	0.4375
-downshift	-0.4
-downward	-0.2
-drunk	-0.3
-evacuate	-0.2
-flicker	-0.3
-fluctuate	-0.25
-fragment	-0.32
-interfer	-0.3
-interrupt	-0.166666667
-miscalculate	-0.25
-calculate	0.25
-misconceive	-0.625
-conceive	0.625
-misrepresent	-0.5
-represent	0.5
-modify	-0.375
-obstruct	-0.4
-outgrown	-0.2
-overcooked	-0.5
-overdirect	-0.2
-overextend	-0.125
-overfill	-0.5
-overprice	-0.3
-overplotted	-0.2
-quash	-0.375
-prefabricate	-0.25
-rein	-0.3
-repel	-0.541666667
-roar	-0.3
-roped	-0.4
-roughed	-0.5
-rough	-0.5
-rumour	-0.6
-scrawl	-0.3
-slept	-0.3
-snipped	-0.2
-stalk	-0.3
-stupid	-0.4
-summon	-0.5
-suppress	-0.6
-terminate	-0.32
-threat	-0.375
-tough	-0.2
-transfer	-0.2
-unattended	-0.321
-unauthorized	-0.5
-complete	0.208333333
-uncomplete	-0.208333
-undercut	-0.2
-underweight	-0.2
-undevote	-0.125
-undirect	-0.1875
-undiscipline	-0.125
-undo	-0.1
-unequipped	-0.3
-unheard	-0.5
-uninterest	-0.125
-unmotivate	-0.23
-unobserve	-0.28125
-unqualified	-0.32156
-unrefine	-0.213
-unsatisfactory	-0.123
-unstructure	-0.12
-untrust	-0.25
-wet	-0.1
-grunt	-0.1
-deficit	-0.1
-deficits	-0.1
+ache,-0.375
+affect,0.125
+afflict,-0.875
+affront,-0.125
+aggravate,-0.25
+agitate,-0.25
+agonize,-0.875
+agree,0.875
+alienate,0.5
+allow,0.375
+amaze,0.125
+amuse,0.625
+anger,-0.75
+anguish,-0.5
+annihilate,-0.75
+annoy,-0.5
+antagonise,-0.5
+antagonize,-0.5
+appall,-0.375
+appease,0.875
+applaud,0.5
+appreciate,0.375
+approve,0.25
+arouse,-0.25
+assault,-0.375
+assuage,0.875
+astonish,-0.25
+astound,0.25
+attack,-0.5
+awe,-0.25
+backbite,-0.125
+baffle,-0.25
+battle,-0.25
+beguile,0.5
+believe,0.375
+bewilder,-0.25
+bewitch,0.5
+bleed,-0.125
+bless,0.25
+boggle,-0.375
+bomb,-0.25
+bore,-0.5
+bother,-0.875
+brag,-0.125
+browbeat,-0.125
+bug,-0.125
+bully,-0.125
+calm,0.125
+calumniate,-0.125
+campaign,-0.25
+captivate,0.35
+care,0.375
+castigate,-0.75
+celebrate,0.375
+censure,-0.25
+chagrin,-0.625
+charm,0.5
+chasten,0.375
+chastise,-0.75
+cheer,0.75
+cherish,0.125
+chide,-0.75
+chill,-0.25
+clash,-0.375
+coerce,-0.125
+collapse,-0.5
+combat,-0.25
+comfort,0.5
+commend,0.5
+compensate,0.625
+compliment,0.125
+concern,0.375
+condemn,-0.5
+conflict,-0.125
+confound,-0.625
+confuse,-0.5
+congratulate,0.25
+consider,0.25
+console,0.5
+contend,0.5
+content,0.375
+convince,0.125
+correct,0.125
+covet,-0.125
+cow,-0.375
+crave,0.125
+cringe,-0.125
+criticize,-0.25
+crusade,0.125
+crush,0.125
+cry,-0.5
+damage,-0.75
+daunt,-0.25
+daze,-0.25
+dazzle,0.5
+decry,-0.25
+defame,0.125
+defend,0.125
+defy,0.125
+degrade,-0.125
+deject,-0.125
+delight,-0.125
+demolish,-0.375
+demoralise,-0.625
+demoralize,-0.625
+denigrate,-0.125
+denounce,-0.25
+deny,-0.25
+deplore,-0.125
+deprecate,-0.125
+depress,-0.2
+deride,-0.25
+deserve,0.75
+desire,0.25
+despair,-0.1
+despise,-0.375
+destroy,-0.5
+detest,-0.75
+devastate,-0.3
+appoint,0.25
+approve,0.875
+disarm,0.125
+discombobulate,-0.625
+discomfit,-0.125
+compose,0.125
+disconcert,-0.5
+courage,-0.5
+disdain,-0.375
+disgrace,-0.625
+disgruntle,-0.625
+disgust,-0.625
+dishearten,-0.375
+disillusion,0.75
+dismay,-0.125
+disparage,-0.25
+dispirit,-0.125
+disquiet,-0.125
+disrupt,-0.25
+distract,-0.125
+distress,-0.5
+distrust,-0.5
+disturb,-0.625
+doubt,-0.25
+dread,-0.625
+duel,0.25
+dumbfound,-0.25
+elate,0.5
+electrify,0.25
+eliminate,-0.25
+embarrass,-0.25
+embolden,0.25
+enchant,-0.25
+encourage,0.25
+engage,0.125
+enjoy,0.5
+enlighten,0.125
+enliven,0.125
+enrage,-0.75
+enrapture,-0.2
+enthrall,0.125
+enthuse,0.25
+entice,-0.125
+entrance,0.5
+envy,0.375
+esteem,0.5
+eulogize,0.2
+exalt,0.75
+exasperate,-0.25
+excite,0.5
+excuse,0.125
+execrate,-0.25
+exhaust,-0.25
+exhilarate,0.25
+expect,0.25
+extol,0.75
+exult,0.375
+fancy,0.5
+fascinate,0.5
+fault,-0.625
+favor,0.375
+fear,-0.2
+felicitate,-0.125
+fight,-0.25
+fire,-0.125
+flabbergast,0.375
+flatter,-0.1
+floor,-0.1
+fluster,-0.25
+force,-0.125
+forgive,0.25
+fret,-0.25
+frighten,-0.25
+frustrate,-0.125
+fume,-0.125
+gall,-0.1
+gape,0.125
+gawk,0.1
+gaze,0.125
+gladden,0.125
+glare,-0.125
+gloat,0.375
+goggle,0.1
+gratify,0.375
+greet,0.25
+grieve,-0.375
+guard,0.125
+hail,0.1
+hanker,0.375
+harass,-0.125
+hate,-0.75
+hear,0.1
+hearten,0.25
+hit,-0.3
+honor,0.375
+hope,0.5
+horrify,-0.3
+humble,0.1
+humiliate,-0.625
+hunger,-0.25
+hurt,-0.5
+idolize,0.5
+ignite,-0.25
+impeach,-0.25
+impress,0.125
+incense,-0.2
+infuriate,-0.2
+inspire,0.125
+insult,-0.125
+interest,0.625
+intimidate,0.2
+intoxicate,0.5
+intrigue,-0.2
+invigorate,0.375
+irritate,-0.125
+jolt,-0.125
+kill,-0.75
+lambaste,-0.75
+lament,-0.625
+laud,0.75
+leer,-0.375
+lie,-0.375
+like,0.35
+loathe,-0.25
+look,0.25
+love,0.625
+lose,-0.5
+lull,0.125
+lust,0.5
+madden,0.375
+marvel,0.125
+matter,0
+menace,-0.125
+miff,-0.5
+mind,0.375
+miss,-0.25
+mock,-0.625
+mollify,0.875
+moon,-0.125
+mope,-0.625
+mortify,-0.625
+mourn,-0.75
+move,0.125
+muddle,-0.375
+mystify,-0.25
+nauseate,-0.625
+negotiate,0.125
+nettle,-0.75
+niggle,-0.5
+muke,0
+numb,-0.25
+obsess,0.25
+offend,-0.375
+ogle,-0.25
+oppose,-0.375
+outrage,-0.25
+overawe,-0.375
+overwhelm,-0.375
+pacify,0.875
+pain,-0.375
+pardon,0
+peace,0
+peeve,-0.625
+penalize,-0.25
+perceive,0.375
+perplex,-0.125
+persecute,-0.125
+perturb,-0.125
+pine,-0.375
+pique,-0.375
+pity,0.1
+placate,0.875
+plague,-0.25
+please,0.625
+praise,0.25
+pray,0.25
+prefer,0.375
+presuppose,0.25
+prize,0.5
+protect,0.5
+provoke,-0.125
+punish,-0.25
+pursue,0
+puzzle,-0.625
+rage,-0.5
+rankle,-0.25
+rave,-0.25
+realize,0.375
+reassure,0.125
+rebuke,0.75
+recognize,0.375
+refresh,0
+regard,0.125
+regret,-0.5
+rejoice,0.25
+relax,0.125
+relieve,0.25
+remove,-0.625
+remunerate,0.125
+repel,-0.125
+reprimand,-0.25
+reproach,-0.375
+reprove,0
+repulse,-0.6
+resent,-0.5
+resist,0.25
+respect,0.5
+revel,0
+revere,0.5
+review,0.125
+revile,-0.125
+revolt,0.125
+reward,0.375
+ridicule,0
+rile,0
+rue,0.5
+sadden,-0.375
+salute,0.25
+satisfy,0.375
+savor,0.375
+scandalize,-0.375
+scare,-0.25
+scatter,-0.125
+scold,-0.75
+scorn,-0.375
+scrutinize,0.5
+seem,0.125
+shake,-0.125
+shame,-0.625
+shock,-0.375
+sicken,-0.25
+sniff,0
+snoop,-0.25
+snub,-0.5
+sober,0.125
+solace,0.5
+soothe,0.5
+sorrow,-0.5
+spellbind,0.125
+spook,-0.125
+stare,-0.125
+startle,-0.125
+stimulate,0.5
+sting,-0.625
+stir,0.375
+strike,-0.125
+strive,0.25
+struggle,-0.25
+study,0.25
+stump,-0.375
+stun,-0.125
+stupefy,-0.125
+suffer,-0.5
+support,0.375
+suppose,0.125
+surprise,0.125
+surrender,-0.125
+suspect,-0.25
+swoon,-0.25
+tantalize,-0.125
+tease,-0.125
+tempt,-0.125
+terrify,-0.25
+terrorise,-0.25
+terrorize,-0.25
+thank,0.25
+think,0.125
+thirst,0.5
+threaten,-0.375
+thrill,0.25
+tire,-0.25
+titillate,0.375
+tolerate,0.125
+torment,-0.125
+treasure,0.25
+trouble,-0.5
+trust,0.375
+understand,0.125
+unify,0
+unnerve,0
+unsettle,-0.25
+upbraid,-0.375
+uplift,0.5
+upset,-0.375
+value,0.5
+venerate,0.625
+vex,-0.125
+victimize,-0.625
+vilify,-0.125
+want,0.25
+war,-0.25
+watch,0.125
+weary,-0.125
+weep,-0.75
+weigh,0.125
+welcome,0.25
+win,0.25
+wish,0.5
+withstand,0.25
+wonder,0.375
+worry,-0.375
+worship,0.5
+wow,0.375
+bombard,-0.25
+castrate,-0.25
+dismantle,-0.125
+smite,-0.875
+prevail,0.375
+hoot,-0.25
+rant,-0.25
+ranten,-0.3
+gainsay,-0.3
+err,-0.25
+gull,0.125
+berate,-0.75
+yell,-0.25
+flout,-0.375
+oust,-0.125
+revenge,-0.125
+meddle,-0.125
+sympathize,0.375
+sympathise,0.375
+hog,-0.125
+sabre,-0.125
+crack,-0.25
+strip,-0.2
+demonize,-0.125
+object,-0.125
+fail,-0.5
+afford,0.45
+improve,0.375
+help,0.25
+keep,0.125
+communicate,0.125
+share,0.125
+connect,0.125
+create,0.375
+save,0.5
+activate,0.5
+waste,-0.65
+worst,-0.5
+ruin,-0.25
+fool,-0.5
+require,-0.25
+cut,-0.25
+face,-0.2
+impose,-0.3
+cheat,-0.45
+boost,0.25
+appear,0.125
+vote,0.2
+solve,0.25
+expect,0.25
+reform,0.25
+generate,0.375
+fake,-0.35
+suck,-0.25
+hike,-0.125
+balance,0.2
+absolve,0.125
+accelerate,0.3
+afterward,0.2
+amend,0.375
+apology,0.3
+append,0.3456
+assemble,0.245
+assign,0.2
+attention,0.3
+boot,0.125
+brief,0.125
+brilliant,0.2534
+broadcast,0.2534
+browse,0.2
+categorize,0.3456
+cease,0.213
+choice,0.213
+circulate,0.2534
+collect,0.35
+colonized,0.2
+command,0.4
+compile,0.5
+compress,0.125
+connect,0.125
+conscript,0.213
+consult,0.3
+convey,0.25
+cooperate,0.3
+defense,0.5
+deliver,0.125
+deploy,0.125
+derive,0.125
+diagnose,0.5
+digitalize,0.125
+discharge,0.291666667
+economize,0.3
+effect,0.125
+encapsulate,0.124
+enclose,0.123
+enjoyment,0.425
+escort,0.2
+evaluate,0.23
+expend,0.25
+finalized,0.5
+float,0.1
+grasp,0.125
+guidance,0.23
+host,0.4
+identify,0.3
+impressive,0.45
+inclose,0.132
+initiate,0.32156
+install,0.253
+integrate,0.32
+interact,0.2
+interlink,0.125
+interpret,0.375
+interrogate,0.123
+introduce,0.2
+mandate,0.3
+merge,0.3
+modernize,0.321
+monitore,0.3
+moralize,0.208333333
+motivate,0.453
+novel,0.231
+participate,0.456
+permit,0.54
+pleasant,0.3
+pleasure,0.23
+pray,0.2531
+preview,0.2
+project,0.1
+pump,0.1
+recommend,0.25
+remark,0.231
+reside,0.1
+resolve,0.231
+revise,0.3
+revolutionize,0.542
+sanction,0.125
+serialised,0.3
+show,0.25
+shown,0.25
+zip,0.25
+visualize,0.2
+visualise,0.2
+venerate,0.625
+restrain,0.321
+unrestrained,0.321
+unopposed,0.3
+complicate,-0.125
+transplant,0.25
+thickened,0.2
+smooth,0.625
+specify,0.25
+sponsor,0.2
+strengthen,0.375
+strong,0.5
+subscribe,0.35
+success,0.5
+suitable,0.2
+surrender,0.3
+symbolized,0.25
+abort,-0.583333333
+breach,-0.35
+busy,-0.1
+caught,-0.2
+contempt,-0.35
+crank,-0.5
+construct,0.25
+deconstruct,-0.25
+disbanded,-0.5
+disintegrated,-0.6
+organise,0.25
+disorganise,-0.25
+prove,0.4375
+downshift,-0.4
+downward,-0.2
+drunk,-0.3
+evacuate,-0.2
+flicker,-0.3
+fluctuate,-0.25
+fragment,-0.32
+interfer,-0.3
+interrupt,-0.166666667
+miscalculate,-0.25
+calculate,0.25
+misconceive,-0.625
+conceive,0.625
+misrepresent,-0.5
+represent,0.5
+modify,-0.375
+obstruct,-0.4
+outgrown,-0.2
+overcooked,-0.5
+overdirect,-0.2
+overextend,-0.125
+overfill,-0.5
+overprice,-0.3
+overplotted,-0.2
+quash,-0.375
+prefabricate,-0.25
+rein,-0.3
+repel,-0.541666667
+roar,-0.3
+roped,-0.4
+roughed,-0.5
+rough,-0.5
+rumour,-0.6
+scrawl,-0.3
+slept,-0.3
+snipped,-0.2
+stalk,-0.3
+stupid,-0.4
+summon,-0.5
+suppress,-0.6
+terminate,-0.32
+threat,-0.375
+tough,-0.2
+transfer,-0.2
+unattended,-0.321
+unauthorized,-0.5
+complete,0.208333333
+uncomplete,-0.208333
+undercut,-0.2
+underweight,-0.2
+undevote,-0.125
+undirect,-0.1875
+undiscipline,-0.125
+undo,-0.1
+unequipped,-0.3
+unheard,-0.5
+uninterest,-0.125
+unmotivate,-0.23
+unobserve,-0.28125
+unqualified,-0.32156
+unrefine,-0.213
+unsatisfactory,-0.123
+unstructure,-0.12
+untrust,-0.25
+wet,-0.1
+grunt,-0.1
+deficit,-0.1
+deficits,-0.1
